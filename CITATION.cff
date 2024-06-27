@@ -6,8 +6,8 @@ authors:
 title: "React Profiler"
 version: 1.0.0
 identifiers:
-  - type: doi
-    value: 10.5281/zenodo.1234
   - type: url
     value: https://github.com/HrisyToteva/React-Profiler
+  - type: doi
+    value: 10.5281/zenodo.1234
 date-released: 2024-06-27
